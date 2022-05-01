@@ -1,4 +1,5 @@
-React App (resplendent-gumption-b1660c.netlify.app)
+https://resplendent-gumption-b1660c.netlify.app/
+
 
 
 # Getting Started with Create React App
